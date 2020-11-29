@@ -5,7 +5,7 @@
 * Clone this repository by using command
 
 ``` 
-git clone https://github.com/MaquiaSA/DepositCash.git
+git clone https://github.com/Champ2k/DepositCash
 ```
 
 * Open IntelliJ
