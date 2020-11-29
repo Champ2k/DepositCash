@@ -1,7 +1,7 @@
-#DepositCash
+# DepositCash
 * DepositCash is a Unit-Test of C-Store that contains a test for Deposit Money to Bank Account.
 
-#Installation
+# Installation
 * Clone this repository by using command
 
 ``` 
